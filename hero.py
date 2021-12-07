@@ -67,10 +67,10 @@ def banner():
 \x1b[1;95m  \___  /          \____|__  /______  /\___  /       
 \x1b[1;96m      \/                   \/       \/     \/    
 
-\x1b[1;97m[\x1b[1;94m+\x1b[1;97m] \x1b[1;94mCreated By \x1b[1;97m: \x1b[1;93mBINTANG-XD
-\x1b[1;97m[\x1b[1;94m+\x1b[1;97m] \x1b[1;94mFb         \x1b[1;97m: \x1b[1;93mBintang Tzy
-\x1b[1;97m[\x1b[1;94m+\x1b[1;97m] \x1b[1;94mGh         \x1b[1;97m: \x1b[1;93mhttps://github.com/bot-85
-\x1b[1;97m[\x1b[1;94m+\x1b[1;97m] \x1b[1;94mWa         \x1b[1;97m: \x1b[1;93m+628380192xxxx
+\x1b[1;97m[\x1b[1;96m+\x1b[1;97m] \x1b[1;96mCreated By \x1b[1;97m: \x1b[1;93mBINTANG-XD
+\x1b[1;97m[\x1b[1;96m+\x1b[1;97m] \x1b[1;96mFb         \x1b[1;97m: \x1b[1;93mBintang Tzy
+\x1b[1;97m[\x1b[1;96m+\x1b[1;97m] \x1b[1;96mGh         \x1b[1;97m: \x1b[1;93mhttps://github.com/bot-85
+\x1b[1;97m[\x1b[1;96m+\x1b[1;97m] \x1b[1;96mWa         \x1b[1;97m: \x1b[1;93m+628380192xxxx
 """)
 
 
@@ -251,16 +251,16 @@ def menu():
     print('%s╠══[%s•%s] %sJoin Since : %s'%(O,P,O,P,bergabung))
     print('%s╠══[%s•%s] %sValid until : %s'%(O,P,O,P,kadaluarsa))
     print('%s║'%(O))
-    print('%s╠══[%s1%s] %sCrack From Public %s'%(O,P,O,P,jid))
-    print('%s╠══[%s2%s] %sCrack From Follower %s'%(O,P,O,P,jid))
-    print('%s╠══[%s3%s] %sCrack From likes post %s'%(O,P,O,P,jid))
-    print('%s╠══[%s4%s] %sRetrieve Target Data'%(O,P,O,P))
-    print('%s╠══[%s5%s] %sTaking Number of Friends %s'%(O,P,O,P,pro))
-    print('%s╠══[%s6%s] %sCheck Crack Results'%(O,P,O,P))
-    print('%s╠══[%s7%s] %sCheck Crack Result Options %s'%(O,P,O,P,pro))
-    print('%s╠══[%s8%s] %sUser Agent'%(O,P,O,P))
-    print('%s╠══[%s9%s] %s%s'%(O,P,O,P,upgrade))
-    print('%s╠══[%s0%s] %sLog Out'%(O,P,O,P))
+    print('%s╠══[%s01%s] %sCrack From Public %s'%(O,P,O,P,jid))
+    print('%s╠══[%s02%s] %sCrack From Follower %s'%(O,P,O,P,jid))
+    print('%s╠══[%s03%s] %sCrack From likes post %s'%(O,P,O,P,jid))
+    print('%s╠══[%s04%s] %sRetrieve Target Data'%(O,P,O,P))
+    print('%s╠══[%s05%s] %sTaking Number of Friends %s'%(O,P,O,P,pro))
+    print('%s╠══[%s06%s] %sCheck Crack Results'%(O,P,O,P))
+    print('%s╠══[%s07%s] %sCheck Crack Result Options %s'%(O,P,O,P,pro))
+    print('%s╠══[%s08%s] %sUser Agent'%(O,P,O,P))
+    print('%s╠══[%s09%s] %s%s'%(O,P,O,P,upgrade))
+    print('%s╠══[%s00%s] %sLog Out'%(O,P,M,P))
     pm = input('%s╠══[%s•%s] %sChoose : '%(O,P,O,P))
     print('%s║'%(O))
     if pm in ['']:
@@ -1099,7 +1099,7 @@ class crack:
                 else:continue
                     
             self.ko+=1
-            print("\r%s[%sNdrii%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
+            print("\r%s[%sYamete%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
         except:
             self.api(fl)
     def api_opsi(self,fl):
@@ -1136,7 +1136,7 @@ class crack:
                 else:continue
                     
             self.ko+=1
-            print("\r%s[%sNdrii%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
+            print("\r%s[%sYamete%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
         except:
             self.api_opsi(fl)
     def mbasic(self,fl):
@@ -1173,7 +1173,7 @@ class crack:
                 else:continue
                     
             self.ko+=1
-            print("\r%s[%sNdrii%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
+            print("\r%s[%sYamete%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
         except:
             self.mbasic(fl)
     def mbasic_opsi(self,fl):
@@ -1215,7 +1215,7 @@ class crack:
                 else:continue
                     
             self.ko+=1
-            print("\r%s[%sNdrii%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
+            print("\r%s[%sYamete%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
         except:
             self.mbasic_opsi(fl)
     def free(self,fl):
@@ -1252,7 +1252,7 @@ class crack:
                 else:continue
                     
             self.ko+=1
-            print("\r%s[%sNdrii%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
+            print("\r%s[%sYamete%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
         except:
             self.free(fl)
     def free_opsi(self,fl):
@@ -1294,7 +1294,7 @@ class crack:
                 else:continue
                     
             self.ko+=1
-            print("\r%s[%sNdrii%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
+            print("\r%s[%sYamete%s][%s%s/%s%s][%sOK:%s%s][%sCP:%s%s]%s"%(O,P,O,P,self.ko,len(self.fl),O,P,len(self.ada),O,P,len(self.cp),O,P), end=' ');sys.stdout.flush()
         except:
             self.free_opsi(fl)
 def target():
