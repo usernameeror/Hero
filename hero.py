@@ -216,7 +216,7 @@ def menu():
         kadaluarsa = '-'
         pro = ("%s[%sPro%s]"%(O,P,O))
         upgrade = ('UPGRADE VERSI %sPRO'%(O))
-        jid = ('%s[%s9999ID%s]'%(O,P,O))
+        jid = ('%s[%s9999 ID%s]'%(O,P,O))
     try:
         token = open("token.txt","r").read()
         x = requests.get("https://graph.facebook.com/me?access_token=" + token)
