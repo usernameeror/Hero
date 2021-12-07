@@ -60,17 +60,17 @@ def clear():
     else:os.system("clear")
 def banner():
     print("""
-\x1b[1;91m ___________       _____ ___________________
+\x1b[1;91m ___________          _____ _____________________
 \x1b[1;92m \_   _____/         /     \\______   \_   _____/ 
 \x1b[1;93m  |    __)  ______  /  \ /  \|    |  _/|    __)   
 \x1b[1;94m  |     \  /_____/ /    Y    \    |   \|     \    
 \x1b[1;95m  \___  /          \____|__  /______  /\___  /       
-\x1b[1;96m      \/                   \/       \/     \/    \/
+\x1b[1;96m      \/                   \/       \/     \/    
 
-\x1b[1;92m[\x1b[1;93m+\x1b[1;92m] \x1b[1;93mCreated By \x1b[1;97m: \x1b[1;93mO\x1b[1;97m'\x1b[1;93mHayo \x1b[1;97mX \x1b[1;93mMrJeeck \x1b[1;97mX \x1b[1;93mHikmatTzy
-\x1b[1;92m[\x1b[1;93m+\x1b[1;92m] \x1b[1;93mFb         \x1b[1;97m: \x1b[1;93mhttps://www.facebook.com/rendi.gerot.1
-\x1b[1;92m[\x1b[1;93m+\x1b[1;92m] \x1b[1;93mGh         \x1b[1;97m: \x1b[1;93mhttps://github.com/YumasaaTzy
-\x1b[1;92m[\x1b[1;93m+\x1b[1;92m] \x1b[1;93mWa         \x1b[1;97m: \x1b[1;93m+628380192xxxx
+\x1b[1;97m[\x1b[1;94m+\x1b[1;92m] \x1b[1;94mCreated By \x1b[1;97m: \x1b[1;93mBINTANG-XD
+\x1b[1;97m[\x1b[1;94m+\x1b[1;92m] \x1b[1;94mFb         \x1b[1;97m: \x1b[1;93mBintang Tzy
+\x1b[1;97m[\x1b[1;94m+\x1b[1;92m] \x1b[1;94mGh         \x1b[1;97m: \x1b[1;93mhttps://github.com/bot-85
+\x1b[1;97m[\x1b[1;94m+\x1b[1;92m] \x1b[1;94mWa         \x1b[1;97m: \x1b[1;93m+628380192xxxx
 """)
 
 
