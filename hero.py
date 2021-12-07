@@ -253,7 +253,7 @@ def menu():
     print('%s║'%(O))
     print('%s╠══[%s01%s] %sCrack From Public %s'%(O,P,O,P,jid))
     print('%s╠══[%s02%s] %sCrack From Follower %s'%(O,P,O,P,jid))
-    print('%s╠══[%s03%s] %sCrack From likes post %s'%(O,P,O,P,))
+    print('%s╠══[%s03%s] %sCrack From likes post %s'%(O,P,O,P,jid))
     print('%s╠══[%s04%s] %sRetrieve Target Data'%(O,P,O,P))
     print('%s╠══[%s05%s] %sTaking Number of Friends %s'%(O,P,O,P,pro))
     print('%s╠══[%s06%s] %sCheck Crack Results'%(O,P,O,P))
