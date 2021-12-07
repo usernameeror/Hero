@@ -1,4 +1,4 @@
-# Decompile by JEECK
+# Decompile by Bintang-XD
 # with (uncompyle6) version : 3.7.4
 # Time Succes decompile : 2021-10-12 15:47:11.403269
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
@@ -67,10 +67,10 @@ def banner():
 \x1b[1;95m  \___  /          \____|__  /______  /\___  /       
 \x1b[1;96m      \/                   \/       \/     \/    
 
-\x1b[1;97m[\x1b[1;94m+\x1b[1;92m] \x1b[1;94mCreated By \x1b[1;97m: \x1b[1;93mBINTANG-XD
-\x1b[1;97m[\x1b[1;94m+\x1b[1;92m] \x1b[1;94mFb         \x1b[1;97m: \x1b[1;93mBintang Tzy
-\x1b[1;97m[\x1b[1;94m+\x1b[1;92m] \x1b[1;94mGh         \x1b[1;97m: \x1b[1;93mhttps://github.com/bot-85
-\x1b[1;97m[\x1b[1;94m+\x1b[1;92m] \x1b[1;94mWa         \x1b[1;97m: \x1b[1;93m+628380192xxxx
+\x1b[1;97m[\x1b[1;94m+\x1b[1;97m] \x1b[1;94mCreated By \x1b[1;97m: \x1b[1;93mBINTANG-XD
+\x1b[1;97m[\x1b[1;94m+\x1b[1;97m] \x1b[1;94mFb         \x1b[1;97m: \x1b[1;93mBintang Tzy
+\x1b[1;97m[\x1b[1;94m+\x1b[1;97m] \x1b[1;94mGh         \x1b[1;97m: \x1b[1;93mhttps://github.com/bot-85
+\x1b[1;97m[\x1b[1;94m+\x1b[1;97m] \x1b[1;94mWa         \x1b[1;97m: \x1b[1;93m+628380192xxxx
 """)
 
 
@@ -1538,8 +1538,8 @@ def cek_hasil():
 def var_menu():
     print('%s╔══[ %sSelect Method Login %s]'%(O,P,O))
     print('%s║'%(O))
-    print('%s╠══[%s1%s] %sLogin with Token'%(O,P,O,P))
-    print('%s╠══[%s2%s] %sLogin with Cookies'%(O,P,O,P))
+    print('%s╠══[%s1%s] %sLogin Via Token'%(O,P,O,P))
+    print('%s╠══[%s2%s] %sLogin Via Cokies'%(O,P,O,P))
     print('%s╠══[%s3%s] %sScript Usage Tutorial'%(O,P,O,P))
     print('%s╠══[%s4%s] %sInfo Author & Team Project'%(O,P,O,P))
     print('%s╠══[%s0%s] %sGo Back'%(O,P,O,P))
